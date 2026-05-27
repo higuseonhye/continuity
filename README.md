@@ -38,9 +38,11 @@ Set `ORG_REASONING_URL=http://localhost:3002` in Return for live memory.
 
 | Name | Repository | Role |
 |------|------------|------|
-| **Return** | [trajectory-native](https://github.com/higuseonhye/return) | Personal rhythm |
-| **Drift** | [trajectory-drift](https://github.com/higuseonhye/drift) | Collective rhythm |
-| **Continuity** | this repo | Decision memory |
+| **Return** | [return](https://github.com/higuseonhye/return) | Personal rhythm |
+| **Drift** | [drift](https://github.com/higuseonhye/drift) | Collective rhythm |
+| **Continuity** | [continuity](https://github.com/higuseonhye/continuity) | Decision memory |
+
+About: [docs/ABOUT.md](docs/ABOUT.md) · Philosophy: [human rhythm](https://github.com/higuseonhye/return/blob/main/docs/human-rhythm.md)
 
 ---
 
