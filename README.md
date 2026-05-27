@@ -1,6 +1,6 @@
 # Continuity
 
-*Part of [Drift & Return](https://github.com/higuseonhye/trajectory-native/blob/main/docs/human-rhythm.md)*
+*Part of [Drift & Return](https://github.com/higuseonhye/return/blob/main/docs/human-rhythm.md)*
 
 ---
 
@@ -38,8 +38,8 @@ Set `ORG_REASONING_URL=http://localhost:3002` in Return for live memory.
 
 | Name | Repository | Role |
 |------|------------|------|
-| **Return** | [trajectory-native](https://github.com/higuseonhye/trajectory-native) | Personal rhythm |
-| **Drift** | [trajectory-drift](https://github.com/higuseonhye/trajectory-drift) | Collective rhythm |
+| **Return** | [trajectory-native](https://github.com/higuseonhye/return) | Personal rhythm |
+| **Drift** | [trajectory-drift](https://github.com/higuseonhye/drift) | Collective rhythm |
 | **Continuity** | this repo | Decision memory |
 
 ---
@@ -54,6 +54,6 @@ Every extracted artifact carries **evidence spans** — continuity over generati
 
 ## Status
 
-**Continuity** is the human name; `org-reasoning-mvp` remains the GitHub slug for now.
+**Continuity** · [github.com/higuseonhye/continuity](https://github.com/higuseonhye/continuity)
 
 Private MVP · evolving
